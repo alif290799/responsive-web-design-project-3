@@ -7,7 +7,7 @@ const OurStory = () => {
     return (
         <>
             <Section>
-                <div className="flex justify-center items-center">
+                <div className="flex justify-center items-center pt-14">
                     <div className="flex flex-col justify-center items-center gap-10 sm:flex-row sm:justify-between sm:items-start md:gap-10 lg:gap-16">
                         <div className="flex flex-col gap-7 sm:w-1/2">
                             <div className="text-6xl font-serif">Our Story</div>
