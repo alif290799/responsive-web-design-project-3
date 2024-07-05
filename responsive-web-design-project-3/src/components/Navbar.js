@@ -48,7 +48,7 @@ const Navbar = () => {
     return (
         <nav className="px-5 lg:px-5 min-[1150px]:px-0 flex justify-between items-center max-w-6xl mx-auto">
             <div className="hover:cursor-pointer text-xl lg:text-3xl font-serif font-semibold">
-                Delish.
+                Delisch.
             </div>
             <ul className="hidden sm:flex justify-center items-center sm:text-xs sm:gap-7 md:text-base lg:text-base lg:gap-10 font-semibold relative">
                 {navlists.map((list, index) => (
